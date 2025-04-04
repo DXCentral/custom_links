@@ -2,8 +2,6 @@
 
 This plugin adds customizable buttons to the FM-DX Webserver interface that open external URLs in draggable iframe windows.
 
-![Custom_Links plugin screenshot](https://drive.google.com/file/d/10OcQ9OuyLhXryt-dcjEJg4pB4GiN-j0K/view?usp=drive_link)
-
 ## Installation
 
 1. Copy the `Custom_LinksPlugin.js` file and the `Custom_Links` folder into your FM-DX Webserver's `plugins` directory.
